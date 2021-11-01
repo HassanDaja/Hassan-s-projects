@@ -1,0 +1,18 @@
+Q14:
+A-->21
+B-->30-3**2+8//3**2*10
+    30-9+0*10
+    30-9
+    21
+Q27:
+A-->10
+B-->1
+c-->var_3
+D-->1100
+E-->11
+F-->erorr because we cant multiply int with string which is (var_5)
+
+
+
+
+	
