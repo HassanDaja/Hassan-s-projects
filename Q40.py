@@ -18,7 +18,7 @@ while x:
             height = float(input("please Enter the height(CM):"))
             height=height*0.01
             IBM=convert(weight,height)
-        else:
+        elif method==2:
             weight = float(input("please Enter the weight(LBS):"))
             height = float(input("please Enter the height(inches):"))
             weight=weight*0.4535
